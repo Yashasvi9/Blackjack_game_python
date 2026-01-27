@@ -53,6 +53,7 @@ BlackJackGame.py
 
 ```bash
 python BlackJackGame.py
+```
 
 ## 🕹️ Controls
 
